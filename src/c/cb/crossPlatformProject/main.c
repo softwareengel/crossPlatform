@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Hello Cross Platform !\n");
     return 0;
 }
